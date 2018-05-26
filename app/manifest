@@ -1,0 +1,12 @@
+[app]
+name: iSolver
+category: Math
+author: Mathias and Trond
+icon: icon.png
+desc: An app that makes a scan of any given sudoku, solves it mathematically and ultimately prints the result in the missing cells of the given sudoku.
+url: https://forskerlinja.no
+exec: Launcher.py
+managed: yes
+uuid: deb7b8f8-d237-420d-bfa3-788702bb58d2
+version: 1.0
+firmware: >=0.9
