@@ -13,12 +13,12 @@ Verktøy som er nyttige ved bruk av iSolver.
 
 # Kilder og referanser
 Prosjektet hadde ikke vært mulig uten god hjelp fra GitHub-arkivet til FTCommunity firmware. Programvaren er forklart i en rekke dokumenter, med forskjellige utvidelser og hjelpsomme kodebiter.
-[Samleside FTCommunity] (https://github.com/ftCommunity)
-[Arkiv FTCommunity ROBOTICS TXT firmware] (https://github.com/ftCommunity/ftcommunity-TXT)
+[Samleside FTCommunity](https://github.com/ftCommunity)
+[Arkiv FTCommunity ROBOTICS TXT firmware](https://github.com/ftCommunity/ftcommunity-TXT)
 I tillegg har det tyske forumet av og for FT-samfunnet vært til hjelp.
-[FTC Forum] (https://forum.ftcommunity.de)
+[FTC Forum](https://forum.ftcommunity.de)
 I tillegg må Adrian Rosebrock takkes for mye verdifull kunnskap om datamaskinsyn (Computervision/CV2). I tillegg har han utviklet en Python-pakke med en rekke funksjoner som gjør koding med CV2 litt lettere.
-[Nettsiden til Rosebrock] (https://www.pyimagesearch.com/)
-[Imutils GitHub] (https://github.com/jrosebr1/imutils)
+[Nettsiden til Rosebrock](https://www.pyimagesearch.com/)
+[Imutils GitHub](https://github.com/jrosebr1/imutils)
 Til slutt må også “hari”, en bruker på Stackoverflow, takkes for algoritmen som brukes i iSolver-programmet.
-[Algroritmen på Stackoverflow] (https://stackoverflow.com/a/20279566)
+[Algroritmen på Stackoverflow](https://stackoverflow.com/a/20279566)
