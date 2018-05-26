@@ -3,7 +3,7 @@ Denne koden vil sammen med robotsett fra Fischertechnik legge grunnlaget for å 
 
 # Innhold
 I denne mappen finner du bestanddelene i applikasjonen som kan lastes opp til TXT-kontrolleren, ved hjelp av brukergrensesnittet som er tilgjengelig ved å skrive ip-adressen til TXT-kontrolleren inn i en nettleser.
-De øverste mappeelementene er forklart under, se README.md for undermapper og filforklaring.
+De øverste mappeelementene er forklart under.
 
 ## app
 Programkode til iSolver-programmet som kjøres på TXT-kontrolleren.
